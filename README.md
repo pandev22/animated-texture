@@ -11,9 +11,8 @@ Vous en avez assez de créer des textures une par une pour vos textures animées
 ## Prérequis
 
 Pour cette instalations vous aller avoir besoin:
-- [Python 3.11](https://www.microsoft.com/store/productId/9NRWMJP3717K?ocid=pdpshare)
+- [Python](https://www.python.org/)
 - Votre fichier en .gif (vous pouvez utiliser [Online Convert](https://image.online-convert.com/fr/convertir/mp4-en-gif))
-- Un ordinateur
 
 ## Instalations
 

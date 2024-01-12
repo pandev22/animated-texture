@@ -32,7 +32,7 @@ Pour cette instalations vous aller avoir besoin:
 
 8 - Exécutez la commande « pip install pillow ».
 
-9 - Exécutez la commande « python index.py », si cela ne marche pas, mettez : « python (version de votre python) index.py » puis attendez.
+9 - Exécutez la commande « python index.py », si cela ne marche pas, mettez : « python(version de votre python) index.py ; exemple : python3.11 index.py» puis attendez.
 
 10 - C'est fini, vos textures sont prêtes.
 

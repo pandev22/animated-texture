@@ -19,21 +19,21 @@ Pour cette instalations vous aller avoir besoin:
 
 1 - Créez un dossier sur votre bureau.
 
-2 - Téléchargez le fichier "index.py".
+2 - Téléchargez le fichier « index.py ».
 
-3 - Placez le fichier "index.py" dans le dossier.
+3 - Placez le fichier « index.py » dans le dossier.
 
 4 - Mettez votre GIF dans le dossier.
 
 5 - Créez un autre dossier à l'intérieur de votre dossier (cela permet de mettre les textures).
 
-6 - Ouvrez le fichier "index.py" et modifiez-le.
+6 - Ouvrez le fichier « index.py » et modifiez-le
 
 7 - Ouvrez CMD dans votre dossier.
 
-8 - Exécutez la commande "pip install pillow".
+8 - Exécutez la commande « pip install pillow ».
 
-9 - Exécutez la commande "python3.11 index.py", puis attendez.
+9 - Exécutez la commande « python index.py », si cela ne marche pas, mettez : « python (version de votre python) index.py » puis attendez.
 
 10 - C'est fini, vos textures sont prêtes.
 
